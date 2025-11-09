@@ -9,10 +9,10 @@ Designed with **modern C++** and a modular architecture, this tool demonstrates 
 
 ---
 
-![2](2.jpg)
+![2](./preview/2.jpg)
 
 ---
-![2](2.jpg)
+![2](./preview/3.jpg)
 
 ---
 
