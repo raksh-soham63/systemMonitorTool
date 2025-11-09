@@ -3,7 +3,16 @@
 A lightweight **C++ System Monitor** that provides real-time insights into your system’s CPU usage, memory utilization, and running processes.  
 Designed with **modern C++** and a modular architecture, this tool demonstrates efficient process management and resource tracking — perfect for systems programming and performance monitoring.
 
+
+#Screenshots
 ![Preview Image](./preview/PreviewSS.jpg)
+
+---
+
+![2](2.jpg)
+
+---
+![2](2.jpg)
 
 ---
 
